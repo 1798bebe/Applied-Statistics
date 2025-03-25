@@ -7,3 +7,5 @@ One notable observation is that the North Korean population is much more concent
 The complete SAS code is uploaded under the name 'the_whole_code.sas,' along with the tabular data 'onecolumndata.txt' and the output window 'result_window.pdf.'
 
 The report is uploaded under the name '(ENG)final_report.'
+
+![image](https://github.com/user-attachments/assets/b716fd51-f7b9-4a6a-b469-bf29358da550)
