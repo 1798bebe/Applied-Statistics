@@ -4,7 +4,7 @@ The purpose of this report is to gather data on the South and North Korean popul
 
 One notable observation is that the North Korean population is much more concentrated in West Germany than in East Germany, despite East Germany's former ties to the Communist bloc. This suggests that, contrary to what might be expected, political alignment didn't lead North Koreans to settle in East Germany, but rather, they preferred West Germany for other reasons.
 
-The complete SAS code https://github.com/1798bebe/Applied-Statistics/blob/main/the_whole_code.sas is uploaded under the name 'the_whole_code.sas,' along with the tabular data 'onecolumndata.txt' and the output window 'result_window.pdf.' https://github.com/1798bebe/Applied-Statistics/blob/main/result%20window.pdf
+The complete SAS code https://github.com/1798bebe/Applied-Statistics/blob/main/the_whole_code.sas is uploaded under the name 'the_whole_code.sas,' along with the tabular data 'onecolumndata.txt' https://github.com/1798bebe/Applied-Statistics/blob/main/onecolumndata.txt and the output window 'result_window.pdf.' https://github.com/1798bebe/Applied-Statistics/blob/main/result%20window.pdf
 
 The report is uploaded under the name '(ENG)final_report.'
 
