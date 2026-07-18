@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-18T06:13:09.471847+00:00",
+  "_captured_run_id": "r_950c37a277a244efa64c13a790ad89bb",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote popsouko (160 rows, 13 columns).",
+    "NOTE: PROC REG: processed 1 job(s) in batch"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

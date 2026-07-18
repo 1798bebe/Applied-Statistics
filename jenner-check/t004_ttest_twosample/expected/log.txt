@@ -1,0 +1,20 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA poptot popnorko popsouko
+
+NOTE: Multi-output DATA step splits stream into: poptot popnorko popsouko
+NOTE: Processing inline DATALINES (160 lines)
+NOTE: Wrote poptot (320 rows, 13 columns).
+NOTE: Wrote popnorko (160 rows, 13 columns).
+NOTE: Wrote popsouko (160 rows, 13 columns).
+
+NOTE: Read 1 rows from DATALINES.
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC TTEST data=poptot
+
+NOTE: ODS plot written: ttest_summary.spec.json
+NOTE: PROC TTEST ODS Graphics generated.
+NOTE: PROC TTEST statement used.

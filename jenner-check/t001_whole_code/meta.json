@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_whole_code",
+  "source_file": "the_whole_code.sas",
+  "source_blob_sha": "bc14666a274cc45aa2832979a423fcae1efe69ec",
+  "source_commit": "9afa90743f178b6c7eb55498e4e1f5e1c826bb55",
+  "notes": "the_whole_code.sas run end-to-end: DATA step builds poptot/popnorko/popsouko, then PROC MEANS/FREQ/TTEST/GLM/REG. The author's SAS-Studio infile path was swapped for an inline DATALINES block carrying the repo's onecolumndata.txt values verbatim, so the script is self-contained."
+}

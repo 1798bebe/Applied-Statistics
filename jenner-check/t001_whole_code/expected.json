@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-18T06:13:09.471847+00:00",
+  "_captured_run_id": "r_a75e5149cac24fb19271e1190eede365",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Multi-output DATA step splits stream into: poptot popnorko popsouko",
+    "NOTE: Wrote poptot (320 rows, 13 columns).",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC GLM statement used.",
+    "NOTE: PROC REG: processed 1 job(s) in batch"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
