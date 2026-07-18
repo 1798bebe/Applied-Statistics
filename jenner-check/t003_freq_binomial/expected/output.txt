@@ -1,0 +1,14 @@
+                                                   The FREQ Procedure
+
+                                    Cumulative    Cumulative
+gender    Frequency    Percent     Frequency      Percent
+---------------------------------------------------------------
+female        41201     57.12        41201        57.12
+male          30935     42.88        72136       100.00
+
+Binomial Proportion for female
+
+Proportion                           0.5712
+ASE                                  0.0018
+Test of H0: Proportion = 0.42        0.0000
+95% Conf Limits                0.5675 0.5748

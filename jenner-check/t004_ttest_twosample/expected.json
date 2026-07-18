@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-18T06:13:09.471847+00:00",
+  "_captured_run_id": "r_111a22e8413e4fd0a5c8ca0d8fa1fcb6",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote poptot (320 rows, 13 columns).",
+    "NOTE: PROC TTEST statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

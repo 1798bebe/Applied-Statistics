@@ -1,0 +1,34 @@
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                               Dependent Variable: count                                                
+
+Source                 DF  Sum of Squares     Mean Square   F Value    Pr > F
+---------------  --------  --------------  --------------  --------  --------
+Model                   5  81738299.04000  16347659.80800     Infty    <.0001
+Error                  94         0.00000         0.00000                    
+Corrected Total        99  81738299.04000                                    
+
+Root MSE           0.00000    R-Square            1.0000
+Dependent Mean     721.36000    Adj R-Sq            1.0000
+Coeff Var          0.00000
+
+                       Parameter Estimates                        
+
+Variable          DF  Estimate  Standard Error   t Value  Pr > |t|
+----------  --------  --------  --------------  --------  --------
+Intercept          1   0.00000         0.00000      0.00    1.0000
+from4to10          1   1.00000         0.00000     Infty    <.0001
+over25             1   1.00000         0.00000     Infty    <.0001
+from10to25         1   1.00000         0.00000     Infty    <.0001
+from1to4           1   1.00000         0.00000     Infty    <.0001
+lessthan1          1   1.00000         0.00000     Infty    <.0001
+
+        Summary of Stepwise Selection Selection         
+
+    Step  Variable Entered/Removed  Variable      Pr > F
+--------  ------------------------  ----------  --------
+       1  Entered                   from4to10     <.0001
+       2  Entered                   over25        <.0001
+       3  Entered                   from10to25    <.0001
+       4  Entered                   from1to4      <.0001
+       5  Entered                   lessthan1     <.0001

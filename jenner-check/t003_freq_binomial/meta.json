@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_freq_binomial",
+  "source_file": "the_whole_code.sas",
+  "source_blob_sha": "bc14666a274cc45aa2832979a423fcae1efe69ec",
+  "source_commit": "9afa90743f178b6c7eb55498e4e1f5e1c826bb55",
+  "notes": "PROC FREQ binomial proportion test (tables gender/binomial(p=0.422)) on the weighted popsouko dataset, from the_whole_code.sas. DATA step preserved verbatim with onecolumndata.txt inlined as DATALINES."
+}

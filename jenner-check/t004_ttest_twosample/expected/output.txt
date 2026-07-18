@@ -1,0 +1,25 @@
+                The TTEST Procedure                 
+                  Variable:  count                  
+
+nationality         N       Mean   Std Dev   Std Err
+-----------  --------  ---------  --------  --------
+north-k            50    61.2000   80.7048   11.4134
+south-k            50   675.7800  852.1089  120.5064
+Diff (1-2)             -614.5800                    
+
+nationality  Lower CL Mean       Mean  Upper CL Mean  Lower CL Std Dev   Std Dev  Upper CL Std Dev
+-----------  -------------  ---------  -------------  ----------------  --------  ----------------
+north-k            38.2639    61.2000        84.1361           67.4155   80.7048          100.5689
+south-k           433.6133   675.7800       917.9467          711.7955  852.1089         1061.8413
+Diff (1-2)       -854.7912  -614.5800      -374.3688          531.0663  605.2284          703.6562
+
+Method         Variances        DF   t Value  Pr > |t|
+-------------  ---------  --------  --------  --------
+Pooled         Equal            98     -5.08    <.0001
+Satterthwaite  Unequal        49.9     -5.08    <.0001
+
+   Equality of Variances    
+
+Method     F Value    Pr > F
+--------  --------  --------
+Folded F    111.48    <.0001

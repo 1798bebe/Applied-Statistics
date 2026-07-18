@@ -1,0 +1,38 @@
+                            The GLM Procedure                             
+                        Dependent Variable: count                         
+
+Source               DF  Sum of Squares    Mean Square   F Value    Pr > F
+-------------  --------  --------------  -------------  --------  --------
+gender                1    329472.66667   329472.66667      0.51    0.4779
+sphere                2  12633962.91125  6316981.45562      9.74    0.0001
+gender:sphere         2    406380.00250   203190.00125      0.31    0.7319
+Error                94  60991191.38750   648842.46157                    
+
+Root MSE         805.50758    R-Square            0.2538
+Adj R-Sq            0.2141
+
+        Means for Effect: gender         
+
+Level          Mean     Std Dev         N
+--------  ---------  ----------  --------
+female    824.02000  1005.73759        50
+male      618.70000   796.93923        50
+
+          Means for Effect: sphere          
+
+Level              Mean    Std Dev         N
+-----------  ----------  ---------  --------
+Berlin       1486.00000  333.38986         6
+Eastgermany    78.40000   84.04293        30
+Westgermany   951.06250  989.55579        64
+
+          Means for Effect: gender*sphere           
+
+Level                     Mean     Std Dev         N
+------------------  ----------  ----------  --------
+female*Berlin       1720.33333   295.16323         3
+male*Berlin         1251.66667   161.28959         3
+female*Eastgermany    90.73333    99.01260        15
+male*Eastgermany      66.06667    67.09318        15
+female*Westgermany  1083.71875  1086.84869        32
+male*Westgermany     818.40625   878.89608        32
